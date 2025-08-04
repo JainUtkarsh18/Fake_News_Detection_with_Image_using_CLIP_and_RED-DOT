@@ -1,0 +1,1 @@
+# Fake_News_Detection_with_Image_using_CLIP_and_REDDOT
