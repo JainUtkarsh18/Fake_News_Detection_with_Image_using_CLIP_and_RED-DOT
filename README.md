@@ -1,5 +1,5 @@
 # Fake_News_Detection_with_Image_using_CLIP_and_REDDOT
-## 📑 Table of Contents
+## Table of Contents
 
 - [Overview](#overview)
 - [Part 1: Inference Script](#part-1-inference-script)
