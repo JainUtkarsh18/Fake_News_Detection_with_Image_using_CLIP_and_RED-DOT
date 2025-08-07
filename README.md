@@ -30,7 +30,7 @@ The project is divided into two parts:
   - `Tf head = 8`
   - `Tf dim = 128`
 
-📌 *Note*: Follow the architecture strictly. Only additional modules may be modified.
+*Note*: Follow the architecture strictly. Only additional modules may be modified.
 
 ---
 
@@ -53,7 +53,7 @@ Deploy the inference pipeline from Part 1 as a local web application.
   - Confidence Score
   - Entropy Score
 
-#### 💡 Bonus
+#### Bonus
 - Multi-sample input support.
 - Results displayed in a clean, structured format.
 
