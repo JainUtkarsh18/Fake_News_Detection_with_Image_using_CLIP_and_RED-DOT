@@ -1,4 +1,4 @@
-# Fake_News_Detection_with_Image_using_CLIP_and_REDDOT Classifier
+# Fake_News_Detection_with_Image_using_CLIP_and_RED-DOT Classifier
 ## Table of Contents
 
 - [Overview](#overview)
