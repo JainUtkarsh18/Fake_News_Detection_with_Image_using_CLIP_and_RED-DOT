@@ -7,7 +7,7 @@
 - [Contributing](#contributing)
 - [License](#license)
 
-### Overview
+### Overview 
 The objective of this project is to design and implement a **multimodal fake news detection pipeline** using the REDDOT model architecture. This involves leveraging both visual (image) and textual (caption) inputs to assess the authenticity of news content. By utilizing the pretrained RED-DOT classifier checkpoint and CLIP ViT-L/14 embeddings, the model is capable of jointly analyzing images and their associated captions to determine whether the news is **True** or **Fake**.
 
 
