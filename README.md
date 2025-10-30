@@ -16,7 +16,7 @@ The project is divided into two parts:
 ### Part 1: Inference Script
 - Utilize the provided REDDOT model, trained checkpoint, and test datasets.
 - Create an inference script that:
-  - Accepts an image and caption.
+  - Accepts an image and caption. 
   - Predicts whether the news is **True** or **Fake**.
   - Outputs the **Confidence Score** and **Entropy Score**.
 - Perform analysis and draw conclusions from the results.
