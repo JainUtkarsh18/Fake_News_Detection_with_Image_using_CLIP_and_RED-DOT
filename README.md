@@ -13,7 +13,7 @@ The objective of this project is to design and implement a **multimodal fake new
 
 The project is divided into two parts:
 
-### Part 1: Inference Script
+### Part 1: Inference Script 
 - Utilize the provided REDDOT model, trained checkpoint, and test datasets.
 - Create an inference script that:
   - Accepts an image and caption. 
